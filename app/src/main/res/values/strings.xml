@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">App Social Media</string>
+
+    <string name="facebook_app_id">YOUR_FB_ID</string>
+    <string name="fb_login_protocol_scheme">YOUR_FB_LOGIN_PROTOCOL_SCHEME</string>
+
+    <string name="profile_image">Profile Image</string>
+    <string name="profile_name">Name</string>
+    <string name="profile_email">abc@xyz.com</string>
+    <string name="btn_logout">Logout</string>
+    <string name="copyright_text">By Shubham Keshri</string>
+
+    <string name="Twitter_CONSUMER_KEY">TWITTER_CONSUMER_KEY</string>
+    <string name="Twitter_CONSUMER_SECRET">TWITTER_CONSUMER_SECRET</string>
+</resources>
